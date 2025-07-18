@@ -20,9 +20,9 @@ Este é um projeto em PHP voltado para o aprendizado de operações básicas com
 
 2. Coloque a pasta no seu ambiente local (ex: htdocs do XAMPP).
 
-3. Acesse no navegador:
-  http://localhost/files_operations/index.php
-5. Use o formulário para criar, visualizar, atualizar ou deletar arquivos.
+3. Acesse no navegador
+   
+4. Use o formulário para criar, visualizar, atualizar ou deletar arquivos.
 
 ## ⚠️ Observações de Segurança
 
