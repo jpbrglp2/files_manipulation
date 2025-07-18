@@ -46,3 +46,5 @@ Este projeto é apenas para fins didáticos. Em ambientes reais evite a manipula
 - 🔒 Sistema de autenticação simples para proteger as operações de leitura e escrita.
 
 - 🛡️ Sanitização reforçada das entradas do usuário para evitar LFI e injeção.
+  
+- 🏗 Aprimoramento da estrutura e organização de códigos e arquivos.
