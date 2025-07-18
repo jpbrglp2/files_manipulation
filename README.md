@@ -33,7 +33,7 @@ Este projeto é apenas para fins didáticos. Em ambientes reais evite a manipula
 
 - ✅ Listagem automática de arquivos disponíveis para visualização via dropdown.
 
-- 📥 Upload de arquivos externos com filtro por tipo seguro (.txt, .csv, etc).
+- 📥 Upload de arquivos externos com filtro por tipo seguro e processamento de mais tipos de arquivos (.json, .csv, etc).
 
 - 📦 Download dos arquivos diretamente pela interface.
 
