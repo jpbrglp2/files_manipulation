@@ -20,9 +20,10 @@ Este é um projeto em PHP voltado para o aprendizado de operações básicas com
 
 2. Coloque a pasta no seu ambiente local (ex: htdocs do XAMPP).
 
-3. Acesse no navegador
+3. Acesse no navegador:
+   ex: http://localhost/nome_da_pasta/index.php
    
-4. Use o formulário para criar, visualizar, atualizar ou deletar arquivos.
+5. Use o formulário para criar, visualizar, atualizar ou deletar arquivos.
 
 ## ⚠️ Observações de Segurança
 
