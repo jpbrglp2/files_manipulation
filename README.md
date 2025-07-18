@@ -1,4 +1,4 @@
-# 🗂️ Files Operations - Manipulação de Arquivos em PHP
+# 🗂️ Files Manipulation - Manipulação de Arquivos em PHP
 
 Este é um projeto em PHP voltado para o aprendizado de operações básicas com arquivos. A aplicação permite criar, visualizar, atualizar e deletar arquivos .txt diretamente por uma interface web estilizada.
 
