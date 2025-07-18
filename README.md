@@ -37,7 +37,7 @@ Este projeto é apenas para fins didáticos. Em ambientes reais evite a manipula
 
 - 📦 Download dos arquivos diretamente pela interface.
 
-- ⚙️ Conversão para API REST (usando PHP) para integração com front-ends modernos.
+- ⚙️ Conversão para API REST (usando PHP juntamente com o laravel) para integração com front-ends modernos.
 
 - 🌐 Tradução para inglês e suporte multilíngue.
 
